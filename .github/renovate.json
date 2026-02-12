@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>apheris/renovate-config",
+    "local>apheris/renovate-config:automerge",
+    "local>apheris/renovate-config:major-approvals"
+  ]
+}
