@@ -1,0 +1,4 @@
+apheris-statistics==0.53.0
+nibabel==5.3.2
+seaborn==0.13.2
+apheris-regression-models==0.45.0
